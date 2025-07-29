@@ -2,7 +2,6 @@ package io.achim.haptic_feedback
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
-import kotlin.test.Test
 import org.mockito.Mockito
 
 /*

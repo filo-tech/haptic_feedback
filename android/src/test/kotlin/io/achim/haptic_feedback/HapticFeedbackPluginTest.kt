@@ -14,7 +14,7 @@ import org.mockito.Mockito
  */
 
 internal class HapticFeedbackPluginTest {
-  @Test
+  // @Test
   // fun onMethodCall_getPlatformVersion_returnsExpectedValue() {
   //   val plugin = HapticFeedbackPlugin()
 
